@@ -23,9 +23,9 @@ fun PassAccessPanel(data: PassData, timeProvider: TimeProvider, modifier: Modifi
     val status = calculatePassStatus(data.pass, data.scans, now)
 
     val statusText = when (status) {
-        PassStatus.BLOCKED -> "Заблокировано"
-        PassStatus.NOT_STARTED -> "Еще не действует"
-        PassStatus.EXPIRED -> "Срок действия истек"
+        PassStatus.BLOCKED -> "Заблокирован"
+        PassStatus.NOT_STARTED -> "Ещё не действует"
+        PassStatus.EXPIRED -> "Истёк"
         PassStatus.EXHAUSTED -> "Лимит проходов исчерпан"
         PassStatus.ACTIVE -> "Активен"
     }

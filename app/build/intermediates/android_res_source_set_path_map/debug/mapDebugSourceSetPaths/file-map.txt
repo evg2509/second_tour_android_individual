@@ -1,0 +1,8 @@
+ru.nto.guestmanagement.mobile.app-pngs-0 C:\Users\rozal\Desktop\second_tour_android_individual-master\app\build\generated\res\pngs\debug
+ru.nto.guestmanagement.mobile.app-updated_navigation_xml-1 C:\Users\rozal\Desktop\second_tour_android_individual-master\app\build\generated\updated_navigation_xml\debug
+ru.nto.guestmanagement.mobile.app-packageDebugResources-2 C:\Users\rozal\Desktop\second_tour_android_individual-master\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+ru.nto.guestmanagement.mobile.app-packageDebugResources-3 C:\Users\rozal\Desktop\second_tour_android_individual-master\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+ru.nto.guestmanagement.mobile.app-debug-4 C:\Users\rozal\Desktop\second_tour_android_individual-master\app\build\intermediates\merged_res\debug\mergeDebugResources
+ru.nto.guestmanagement.mobile.app-debug-5 C:\Users\rozal\Desktop\second_tour_android_individual-master\app\src\debug\res
+ru.nto.guestmanagement.mobile.app-main-6 C:\Users\rozal\Desktop\second_tour_android_individual-master\app\src\main\res
+gradleHome-0 C:\Users\rozal\.gradle

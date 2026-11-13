@@ -42,7 +42,11 @@ fun PassLoadControls(
                 if (state.isRefreshing) {
                     CircularProgressIndicator(modifier = Modifier.testTag(TestIds.PASS_LOADING))
                     Spacer(modifier = Modifier.height(8.dp))
-                    Button(onClick = {}, enabled = false) {
+                    Button(
+                        onClick = {},
+                        enabled = false,
+                        modifier = Modifier.testTag(TestIds.PASS_REFRESH)
+                    ) {
                         Text("Обновить")
                     }
                 } else {

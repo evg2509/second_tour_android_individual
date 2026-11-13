@@ -8,7 +8,6 @@ import kotlinx.coroutines.launch
 import ru.nto.guestmanagement.mobile.data.PassRepository
 import ru.nto.guestmanagement.mobile.model.PassScreenState
 
-
 class PassLoadController(
     private val repository: PassRepository,
     private val scope: CoroutineScope
